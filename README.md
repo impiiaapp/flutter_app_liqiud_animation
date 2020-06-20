@@ -1,3 +1,3 @@
 Liquid Flutter Animation
 
-![alt text](screenshot/luqiudanimation.gif "Screenshot")
+<a href ="screenshot/luqiudanimation.gif"></a>
